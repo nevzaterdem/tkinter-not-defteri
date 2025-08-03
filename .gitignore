@@ -1,0 +1,22 @@
+# Python cache klasörleri
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller output
+build/
+dist/
+*.spec
+*.exe
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Kişisel not dosyası
+notlar.json
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
